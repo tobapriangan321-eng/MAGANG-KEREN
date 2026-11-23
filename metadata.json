@@ -1,0 +1,6 @@
+{
+  "name": "MAGANG KEREN",
+  "description": "Platform digital pencarian magang untuk membantu siswa SMA/SMK, mahasiswa, dan fresh graduate menemukan peluang magang terbaik di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
